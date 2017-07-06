@@ -1,0 +1,10 @@
+[INFO ][2017-07-06 18:08:22,258]: - [background-preinit][o.h.v.i.u.Version.<clinit>:30] - HV000001: Hibernate Validator 5.3.5.Final
+[INFO ][2017-07-06 18:08:22,764]: - [main][c.k.d.s.c.s.MyApplication.logStartupProfileInfo:641] - The following profiles are active: native
+[INFO ][2017-07-06 18:08:24,185]: - [main][o.a.c.c.StandardService.log:179] - Starting service [Tomcat]
+[INFO ][2017-07-06 18:08:24,188]: - [main][o.a.c.c.StandardEngine.log:179] - Starting Servlet Engine: Apache Tomcat/8.5.15
+[INFO ][2017-07-06 18:08:24,372]: - [localhost-startStop-1][o.a.c.c.C.[.[.[/].log:179] - Initializing Spring embedded WebApplicationContext
+[INFO ][2017-07-06 18:08:26,576]: - [main][o.a.c.h.Http11NioProtocol.log:179] - Initializing ProtocolHandler ["http-nio-8888"]
+[INFO ][2017-07-06 18:08:26,589]: - [main][o.a.c.h.Http11NioProtocol.log:179] - Starting ProtocolHandler ["http-nio-8888"]
+[INFO ][2017-07-06 18:08:26,615]: - [main][o.a.t.u.n.NioSelectorPool.log:179] - Using a shared selector for servlet write/read
+[INFO ][2017-07-06 18:08:26,655]: - [main][c.k.d.s.c.s.MyApplication.logStarted:57] - Started MyApplication in 5.795 seconds (JVM running for 6.55)
+[INFO ][2017-07-06 18:08:38,677]: - [http-nio-8888-exec-1][o.a.c.c.C.[.[.[/].log:179] - Initializing Spring FrameworkServlet 'dispatcherServlet'
